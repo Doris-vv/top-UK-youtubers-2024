@@ -149,7 +149,7 @@ WHERE
 ORDER BY
 	net_profit DESC
 ```
-result
+result by excel
 |Channel Name	   |Avg Views per Vid 	|Potential Product Sales per Video 	|Potential Revenue per Video |Net Profit|
 |------------------|--------------------|-----------------------------------|----------------------------|----------|
 |NoCopyrightSounds |6,920,000 	 	    |138,400 		                    |692,000 		             |642,000   |
@@ -187,7 +187,7 @@ WHERE
 ORDER BY
     net_profit DESC;
 ```
-result
+result by excel
 |Channel Name	   |Avg Views per Vid 	|Potential Product Sales per Video 	|Potential Revenue per Video |Net Profit|
 |------------------|--------------------|-----------------------------------|----------------------------|----------|
 |24 News HD        |20,000 	 	        |400 		                        |2,000 		                 |-53,000   |
@@ -223,7 +223,7 @@ WHERE
 ORDER BY
     net_profit DESC;
 ```
-result
+result by excel
 |Channel Name	   |Avg Views per Vid 	|Potential Product Sales per Video 	|Potential Revenue per Video |Net Profit|
 |------------------|--------------------|-----------------------------------|----------------------------|----------|
 |DanTDM            |5,340,000           |106,800                            |534,0000                    |404,000   |
