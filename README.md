@@ -232,6 +232,9 @@ result by excel
 
 ## Recommendations
 1.Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK.
+
 2.Although 24 News HD, Sky News and BBC News ???? are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is negative.
+
 3.Mister Max is the best YouTuber to collaborate with if we're interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes is also good long-term options considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
+
 4.The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
