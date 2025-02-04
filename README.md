@@ -106,3 +106,4 @@ HAVING
     COUNT(*) > 1;
 ```
 
+![Image](https://github.com/user-attachments/assets/efa0ae0f-f09d-4eed-bf90-3901d8a8dc30)
