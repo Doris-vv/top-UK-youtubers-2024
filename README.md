@@ -238,3 +238,8 @@ result by excel
 3.Mister Max is the best YouTuber to collaborate with if we're interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes is also good long-term options considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
 
 4.The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
+
+## Action plan
+Based on our analysis, we believe the best channel to advance a long-term partnership deal with to promote the client's products is the Dan Rhodes channel.
+
+We'll have conversations with the marketing client to forecast what they also expect from this collaboration. Once we observe we're hitting the expected milestones, we'll advance with potential partnerships with DanTDM, Mister Max and NoCopyrightSounds channels in the future.
