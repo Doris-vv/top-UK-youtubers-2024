@@ -111,7 +111,7 @@ Data visualization was done in Microsoft Power BI.
 ![Image](https://github.com/user-attachments/assets/efa0ae0f-f09d-4eed-bf90-3901d8a8dc30)
 
 ## Analysis
-For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels with the most subscribers, total views and total videos.
+For this analysis, we'll prioritize analysing the metrics that are important in generating the expected ROI for our marketing client, which are the YouTube channels with the most subscribers, total views and total videos. We calculate with both SQL and excel.
 1. Youtubers with the most subscribers
 ```
 /* 
